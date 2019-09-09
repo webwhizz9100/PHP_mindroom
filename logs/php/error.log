@@ -1,0 +1,152 @@
+[02-Sep-2019 08:53:42 UTC] PHP Notice:  Array to string conversion in /app/public/index.php on line 6
+[02-Sep-2019 08:53:42 UTC] PHP Notice:  Array to string conversion in /app/public/index.php on line 6
+[02-Sep-2019 08:54:09 UTC] PHP Notice:  Array to string conversion in /app/public/index.php on line 6
+[02-Sep-2019 08:54:10 UTC] PHP Notice:  Array to string conversion in /app/public/index.php on line 6
+[02-Sep-2019 08:56:07 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 6
+[02-Sep-2019 08:56:07 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 6
+[02-Sep-2019 08:56:15 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 6
+[02-Sep-2019 08:56:16 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 6
+[02-Sep-2019 09:41:00 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 13
+[02-Sep-2019 09:41:00 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 13
+[02-Sep-2019 09:43:27 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:27 UTC] PHP Warning:  Use of undefined constant wears - assumed 'wears' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:27 UTC] PHP Warning:  Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:27 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:27 UTC] PHP Warning:  Use of undefined constant wears - assumed 'wears' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:27 UTC] PHP Warning:  Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:50 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:50 UTC] PHP Warning:  Use of undefined constant wears - assumed 'wears' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:50 UTC] PHP Warning:  Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:50 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:50 UTC] PHP Warning:  Use of undefined constant wears - assumed 'wears' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:43:50 UTC] PHP Warning:  Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:44:01 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:44:01 UTC] PHP Warning:  Use of undefined constant wears - assumed 'wears' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:44:01 UTC] PHP Warning:  Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:44:01 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:44:01 UTC] PHP Warning:  Use of undefined constant wears - assumed 'wears' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:44:01 UTC] PHP Warning:  Use of undefined constant color - assumed 'color' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 14
+[02-Sep-2019 09:52:24 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:52:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:52:25 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:52:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:52:25 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:52:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:53:34 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:53:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:53:34 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:53:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:54:00 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:54:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:54:01 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:54:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:58:20 UTC] PHP Notice:  Undefined variable: list in /app/public/index.php on line 7
+[02-Sep-2019 09:58:20 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:58:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 09:58:20 UTC] PHP Notice:  Undefined variable: list in /app/public/index.php on line 7
+[02-Sep-2019 09:58:20 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 23
+[02-Sep-2019 09:58:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 23
+[02-Sep-2019 10:05:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/index.php on line 13
+[02-Sep-2019 10:05:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/index.php on line 13
+[02-Sep-2019 10:09:33 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 5
+[02-Sep-2019 10:09:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 5
+[02-Sep-2019 10:09:34 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 5
+[02-Sep-2019 10:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 5
+[02-Sep-2019 10:13:30 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 5
+[02-Sep-2019 10:13:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 5
+[02-Sep-2019 10:13:30 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 5
+[02-Sep-2019 10:13:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 5
+[02-Sep-2019 10:13:33 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 5
+[02-Sep-2019 10:13:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 5
+[02-Sep-2019 10:16:24 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:16:24 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:16:24 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:16:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:16:24 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:16:24 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:16:24 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:16:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:19:15 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:19:15 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:19:15 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:19:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:19:18 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:19:18 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:19:18 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:19:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:19:18 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:19:18 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:19:18 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:19:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:19:28 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:19:28 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:19:28 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:19:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:19:28 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:19:28 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:19:28 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:19:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:27:06 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:27:06 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:27:06 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:27:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:27:07 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:27:07 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:27:07 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:27:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:34:52 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:34:52 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:34:52 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:34:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:34:53 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:34:53 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:34:53 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:34:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:35:23 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:35:23 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:35:23 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:35:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 10:35:23 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 10:35:23 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 10:35:23 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 10:35:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 23:28:07 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 23:28:07 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 23:28:07 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 23:28:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[02-Sep-2019 23:28:08 UTC] PHP Warning:  include(model.php): failed to open stream: No such file or directory in /app/public/index.php on line 4
+[02-Sep-2019 23:28:08 UTC] PHP Warning:  include(): Failed opening 'model.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/index.php on line 4
+[02-Sep-2019 23:28:08 UTC] PHP Notice:  Undefined variable: posts in /app/public/index.php on line 6
+[02-Sep-2019 23:28:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/index.php on line 6
+[04-Sep-2019 10:43:29 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 24
+[04-Sep-2019 10:43:29 UTC] PHP Warning:  Use of undefined constant wrote - assumed 'wrote' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 24
+[04-Sep-2019 10:43:29 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:43:29 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 24
+[04-Sep-2019 10:43:29 UTC] PHP Warning:  Use of undefined constant wrote - assumed 'wrote' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 24
+[04-Sep-2019 10:43:29 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:44:49 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 24
+[04-Sep-2019 10:44:49 UTC] PHP Warning:  Use of undefined constant wrote - assumed 'wrote' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 24
+[04-Sep-2019 10:44:49 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:44:49 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 24
+[04-Sep-2019 10:44:49 UTC] PHP Warning:  Use of undefined constant wrote - assumed 'wrote' (this will throw an Error in a future version of PHP) in /app/public/index.php on line 24
+[04-Sep-2019 10:44:49 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:49:40 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:49:40 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 25
+[04-Sep-2019 10:49:40 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:49:40 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 25
+[04-Sep-2019 10:50:04 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:50:04 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 25
+[04-Sep-2019 10:50:05 UTC] PHP Notice:  Undefined index: Content in /app/public/index.php on line 24
+[04-Sep-2019 10:50:05 UTC] PHP Notice:  Undefined index: Author in /app/public/index.php on line 25
