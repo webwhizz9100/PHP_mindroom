@@ -1,40 +1,20 @@
 <?php 
-include 'db.info.php'?>
+
+// include 'db.info.php';
+// include 'dev-function.php';
+
+// echo '<pre>'.print_r($post,true).'</pre>'; exsit;
+// showArray($_GET);
+?>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
-</head>
-<body>
-<ul class="menu">
-    <li><a href="/?author=Myles Hart">Myles</a></li>
-    <li><a href="/?author=Sarah Russo">Sarah</a></li>
-</ul>
-    <?php 
-    $i = 0;
-    foreach($post as $bio):?>
-        <? if(array_key_exists('author',$_GET)){
-            
-            if($bio['author_name'] !=$_GET['author'])continue;
-        }
-            ?>
 
-        <li>
-            <h1><?= $bio['title']?></h1>
-            by
-            <em><?= $bio['author_name'] ?></em>
-        </li>
-       
-       
+<form action="GET">
+    <input type="text" placeholder="Name" name="name">
+    <input type="text" placeholder="Country" name="country">
+    <button>Go</button>
+</form>
 
-   
+<p>I <?= $_GET['name']?> from <?= $_GET['country']?></p>
 
-
-<?php endforeach?>
-</body>
-</html>
- 
+<?php var_dump($_GET['name']);?>
