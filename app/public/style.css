@@ -1,0 +1,44 @@
+body {
+    background: #eee;
+}
+.page {
+    background: white;
+    max-width: 600px;
+    margin: 3em auto;
+    padding: 2em;
+    box-shadow: 0 0 4px #aaa;
+}
+
+form.fancy label {
+    display: inline-block;
+    min-width: 130px;
+}
+
+form.fancy div {
+    margin-bottom: 1em;
+    border-bottom: 1px solid #555;
+    display: flex;
+    align-items: center;
+
+}
+
+form.fancy input {
+    padding: 1em;
+    border: none;
+    flex: 1;
+    font-size: 24px;
+}
+
+form.fancy input:focus {
+    outline: none;
+    box-shadow: 0 2px 0 0 black;
+}
+
+form.fancy button {
+    margin-top: 20px;
+    padding: 1em;
+    background: black;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
